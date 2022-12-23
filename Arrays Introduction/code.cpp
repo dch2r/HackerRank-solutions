@@ -15,7 +15,7 @@ int main() {
         cin>>arr[i];
     }  
     for(int j =N-1;j>=0;j--){
-        cout<<arr[j] <<" ";
+        cout<<arr[j] <<' ';
     }
     return 0;
 }
